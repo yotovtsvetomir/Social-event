@@ -1,0 +1,15 @@
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\bin\Debug\InsepectStatus.exe.config
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.Form1.resources
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\bin\Debug\InsepectStatus.exe
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\bin\Debug\InsepectStatus.pdb
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.exe
+G:\DropBox\Dropbox\Project P\C# apps\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.pdb
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\bin\Debug\InsepectStatus.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.exe
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.pdb
+C:\Users\R\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\bin\Debug\InsepectStatus.exe.config
+C:\Users\R\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.exe
+C:\Users\R\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\InsepectStatus\InsepectStatus\obj\Debug\InsepectStatus.pdb

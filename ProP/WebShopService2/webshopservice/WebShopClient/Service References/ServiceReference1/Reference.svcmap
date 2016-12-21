@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="df8fb64e-f9d1-4fc9-be54-088b0dc235f5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="32fcdae8-0572-4e8d-977c-e0cdfc7faecf" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?disco" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="ee92afe3-8de8-4553-a459-90b3d482288e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="d1b10218-c67f-45be-a5d7-7c24ff3d28e7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="4adb4e96-9703-4736-a9b9-0329c8f744f8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="860dbf7d-cc57-4d12-bdc0-7c47dc3e91ce" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="item.wsdl" MetadataType="Wsdl" ID="b4aa49df-3937-4b88-a727-bdcd35c22524" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopservice/Service1/?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

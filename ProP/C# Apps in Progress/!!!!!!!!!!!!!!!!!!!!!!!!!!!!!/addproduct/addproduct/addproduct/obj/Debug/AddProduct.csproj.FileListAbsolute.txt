@@ -1,0 +1,37 @@
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe.config
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.pdb
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csprojResolveAssemblyReference.cache
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Form1.resources
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Properties.Resources.resources
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csproj.GenerateResource.Cache
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.exe
+G:\ICT\ProP\C# apps\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe.config
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Form1.resources
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe.config
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Form1.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csproj.GenerateResource.Cache
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe.config
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.exe
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.pdb
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csprojResolveAssemblyReference.cache
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Form1.resources
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.Properties.Resources.resources
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\bin\Debug\AddProduct.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.exe
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Addproduct\AddProduct\AddProduct\obj\Debug\AddProduct.pdb

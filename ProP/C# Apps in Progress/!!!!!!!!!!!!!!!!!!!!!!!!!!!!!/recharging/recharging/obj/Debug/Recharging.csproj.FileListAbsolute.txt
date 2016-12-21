@@ -1,0 +1,24 @@
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\bin\Debug\Recharging.exe.config
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.csprojResolveAssemblyReference.cache
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.Form1.resources
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.Properties.Resources.resources
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.csproj.GenerateResource.Cache
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\bin\Debug\Recharging.exe
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\bin\Debug\Recharging.pdb
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.exe
+G:\ICT\C#4\week5\assignment\Recharging\Recharging\obj\Debug\Recharging.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Recharging\Recharging\bin\Debug\Recharging.exe.config
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Recharging\Recharging\obj\Debug\Recharging.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\Recharging\Recharging\obj\Debug\Recharging.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\bin\Debug\Recharging.exe.config
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\bin\Debug\Recharging.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\bin\Debug\Recharging.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.Form1.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\bin\Debug\Recharging.exe.config
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.exe
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Recharging\Recharging\obj\Debug\Recharging.pdb

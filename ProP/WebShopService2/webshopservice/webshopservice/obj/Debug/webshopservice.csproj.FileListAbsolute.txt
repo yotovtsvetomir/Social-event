@@ -1,0 +1,16 @@
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+C:\Users\v\Desktop\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+C:\Users\v\Desktop\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+C:\Users\v\Desktop\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+C:\Users\v\Desktop\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+C:\Users\v\Desktop\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\webshopservice\webshopservice\obj\Debug\webshopservice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,92 @@
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\bin\Debug\SnackBar.exe
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\bin\Debug\SnackBar.pdb
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\SnackBar.exe
+D:\__Vakken\2012-2013\PCS2\SnackBar\SnackBar\SnackBar\obj\x86\Debug\SnackBar.pdb
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\SnackBar.exe
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\SnackBar.pdb
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\bin\Debug\SnackBar.exe
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\bin\Debug\SnackBar.pdb
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\new_stuff\pcs2\WorkingOn\Example exam\SnackBar_StartupProject_BERT\SnackBar\obj\x86\Debug\SnackBar.pdb
+G:\ICT\C# 2\mock\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\mock exam pcs2, 2013 jan\StartupProject_Mock exam jan 2013\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\bin\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\bin\Debug\SnackBar.pdb
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\bin\Debug\SnackBar.exe
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\bin\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\BarApp\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+D:\Programs\DropBox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+D:\Programs\DropBox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\bin\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\bin\Debug\SnackBar.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.csproj.GenerateResource.Cache
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\bin\Debug\SnackBar.exe
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\bin\Debug\SnackBar.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CLASSES - 2204\BarApp\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\bin\Debug\SnackBar.exe
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\bin\Debug\SnackBar.pdb
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csproj.GenerateResource.Cache
+D:\Programs\DropBox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+D:\Programs\DropBox\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csprojResolveAssemblyReference.cache
+D:\Project P\Project P\C# apps\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csproj.GenerateResource.Cache
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+C:\Users\Toshko\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+C:\Users\MSI\Dropbox\ProP Group C\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+C:\Users\MSI\Dropbox\ProP Group C\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+C:\Users\R\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+C:\Users\R\Dropbox\ProP\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.exe
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.pdb
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csprojResolveAssemblyReference.cache
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.SnackBarForm.resources
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.Properties.Resources.resources
+E:\Dropbox\ProP (1)\C#\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\BarApp\SnackBar\obj\x86\Debug\SnackBar.csproj.GenerateResource.Cache

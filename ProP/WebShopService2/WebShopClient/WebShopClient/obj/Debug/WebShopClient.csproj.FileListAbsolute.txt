@@ -1,0 +1,26 @@
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe.config
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\bin\Debug\WebShopClient.pdb
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Form1.resources
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Properties.Resources.resources
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.csproj.GenerateResource.Cache
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.exe
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.pdb
+c:\users\vytas\documents\visual studio 2013\Projects\WebShopClient\WebShopClient\obj\Debug\WebShopClient.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe.config
+C:\Users\v\Desktop\WebShopClient\WebShopClient\obj\Debug\WebShopClient.exe
+C:\Users\v\Desktop\WebShopClient\WebShopClient\obj\Debug\WebShopClient.pdb
+C:\Users\v\Desktop\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe
+C:\Users\v\Desktop\WebShopClient\WebShopClient\bin\Debug\WebShopClient.pdb
+C:\Users\v\Desktop\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Form1.resources
+C:\Users\v\Desktop\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Properties.Resources.resources
+C:\Users\v\Desktop\WebShopClient\WebShopClient\obj\Debug\WebShopClient.csproj.GenerateResource.Cache
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe.config
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.exe
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.pdb
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\bin\Debug\WebShopClient.exe
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\bin\Debug\WebShopClient.pdb
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.csprojResolveAssemblyReference.cache
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Form1.resources
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.Properties.Resources.resources
+C:\Users\r\Desktop\csa\practical\w3\WebShopService2\WebShopClient\WebShopClient\obj\Debug\WebShopClient.csproj.GenerateResource.Cache

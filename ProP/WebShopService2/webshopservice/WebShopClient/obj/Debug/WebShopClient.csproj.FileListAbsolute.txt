@@ -1,0 +1,11 @@
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.csprojResolveAssemblyReference.cache
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.Form1.resources
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.Properties.Resources.resources
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.csproj.GenerateResource.Cache
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\bin\Debug\WebShopClient.exe.config
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\bin\Debug\WebShopClient.exe
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\bin\Debug\WebShopClient.pdb
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\bin\Debug\webshopservice.dll
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\bin\Debug\webshopservice.pdb
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.exe
+c:\users\vytas\documents\visual studio 2013\Projects\webshopservice\WebShopClient\obj\Debug\WebShopClient.pdb

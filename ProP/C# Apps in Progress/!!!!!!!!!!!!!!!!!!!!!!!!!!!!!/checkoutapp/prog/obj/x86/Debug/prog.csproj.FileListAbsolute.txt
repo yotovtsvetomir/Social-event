@@ -1,0 +1,11 @@
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\bin\Debug\prog.exe
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\bin\Debug\prog.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.Form1.resources
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.Properties.Resources.resources
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.exe
+G:\DropBox\Dropbox\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.pdb
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.exe
+X:\Constantine Indjoff's files\Dropbox\Documents FONTYS\Project P\C# apps\CheckoutApp\prog\obj\x86\Debug\prog.pdb
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\CheckoutApp\prog\obj\x86\Debug\prog.exe
+G:\DropBox\Dropbox\Project P\C# apps\CLASSES - 2204\CheckoutApp\prog\obj\x86\Debug\prog.pdb
